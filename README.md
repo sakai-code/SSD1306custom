@@ -1,6 +1,7 @@
 # SSD1306 OLED MakeCode Package [![Build Status](https://travis-ci.org/Tinkertanker/pxt-oled-ssd1306.svg?branch=master)](https://travis-ci.org/Tinkertanker/pxt-oled-ssd1306)
 
 This is the MakeCode Package for SSD1306 OLED controller, based on the Adafruit Arduino library available [here](https://github.com/adafruit/Adafruit_SSD1306).
+日本人向けに日本語対応したものです。試験用
 
 ## Hardware Setup
 1. Insert the OLED display into the I2C ports on the break out board.
