@@ -1,7 +1,7 @@
 {
   "OLED.clear|block": "画面初期化",
-  "OLED.drawLine|block": "線を描く してん:|x: $x0 y: $y0 終点| x: $x1 y: $y1",
-  "OLED.drawLoading|block": "進捗度表示 $percent %",
+  "OLED.drawLine|block": "線を描く 始点:|x: $x0 y: $y0 終点| x: $x1 y: $y1",
+  "OLED.drawLoading|block": "％表示 $percent %",
   "OLED.drawRectangle|block": "長方形 左上端:|x: $x0 y: $y0 右上端| x: $x1 y: $y1",
   "OLED.init|block": "液晶を初期化 幅 %width 高さ %height",
   "OLED.newLine|block": "改行",
