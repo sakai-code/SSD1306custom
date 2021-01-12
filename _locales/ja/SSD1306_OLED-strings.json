@@ -9,7 +9,7 @@
   "OLED.writeNum|block": "数字を表示（改行無し） $n",
   "OLED.writeStringNewLine|block": "文字を表示（改行して） $str",
   "OLED.writeString|block": "文字を表示（改行無し） $str",
+  "input.lightLevel|block":"明るさ0から255",
   "{id:category}Math": "Math",
   "{id:category}OLED": "OLED"
-  "input.lightLevel|block""明るさ0から255",
 }
