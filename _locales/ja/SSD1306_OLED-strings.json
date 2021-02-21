@@ -12,5 +12,5 @@
   "input.lightLevel|block":"明るさ0から255",
   "OLED|namespace":"得るエーディー",
   "{id:category}Math": "Math",
-  "{id:category}OLED": "液晶"
+  "{id:category}OLED": "OLED液晶"
 }
