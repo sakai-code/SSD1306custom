@@ -1,6 +1,6 @@
 {
     "name": "SSD1306_OLED",
-    "version": "2.0.9",
+    "version": "0.0.1",
     "description": "SSD 1306 modules for JAPANESE",
     "license": "MIT",
     "dependencies": {
